@@ -1,0 +1,5 @@
+# ingested csv files
+data/ingested/
+
+# pycache
+src/__pycache__/
